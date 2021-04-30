@@ -50,7 +50,7 @@ List from http://www.cplusplus.com/forum/beginner/3473/
 
 ## Intermediate
 
-18. [ ] Simple file encryption (using something simple like ROT13).
+18. [x] Simple file encryption (using something simple like ROT13).
 19. [ ] Write a programme which will print all the pairs of prime numbers whose sum equals the number entered by the user. Eg 10 = 5 + 5, 7 + 3; 12 = 11 + 1, 5 + 7
 20. [ ] Write a quiz which retrieves a question and answer from a file. Allow the user to take the quiz, count points total and show score.
 21. [ ] Read XHTML, remove the tags, then print out the remaining text.
